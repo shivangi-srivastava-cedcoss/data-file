@@ -1,0 +1,6079 @@
+{
+    "CBT5726": {
+        "id": "CBT5726",
+        "name": "Appliances",
+        "picture": "http://resources.mlstatic.com/category/images/104bbc6d-bf5c-4e84-8e17-93b8e6d16553.png",
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT5726",
+                "name": "Appliances"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT385177",
+                "name": "Air Conditioning",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1618",
+                "name": "Cooking",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT5977",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT6355",
+                "name": "Personal Care Appliances",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1576",
+                "name": "Refrigerators \u0026 Freezers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT438284",
+                "name": "Small Appliances",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT438282",
+                "name": "Washing Machines \u0026 Dryers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT117258",
+                "name": "Water Dispensers \u0026 Filters",
+                "total_items_in_this_category": 0
+            }
+        ]
+    },
+    "CBT1071": {
+        "id": "CBT1071",
+        "name": "Animals and Pets",
+        "picture": "http://resources.mlstatic.com/category/images/0b18438b-f56c-421a-a020-f581f40f4c24.png",
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT1100",
+                "name": "Birds",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429311",
+                "name": "Bugs",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1081",
+                "name": "Cats",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1072",
+                "name": "Dogs",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1091",
+                "name": "Fish",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1117",
+                "name": "Horses",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1126",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT6573",
+                "name": "Rabbits",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1111",
+                "name": "Reptiles \u0026 Amphibians",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1105",
+                "name": "Rodents",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2018-04-25T08:12:56.000Z"
+    },
+    "CBT1367": {
+        "id": "CBT1367",
+        "name": "Antiques and Collectibles",
+        "picture": "http://resources.mlstatic.com/category/images/ab8cfe0b-cb84-4d7b-bced-f32fcf96dab4.png",
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT436789",
+                "name": "Antiques",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1806",
+                "name": "Coins \u0026 Bills",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1805",
+                "name": "Military",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1383",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1861",
+                "name": "Philately",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT3475",
+                "name": "Posters",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT2662",
+                "name": "Sculptures",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT31770",
+                "name": "Soccer",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2018-04-25T08:12:56.000Z"
+    },
+    "CBT430305": {
+        "id": "CBT430305",
+        "name": "Altarpieces",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            },
+            {
+                "id": "CBT430305",
+                "name": "Altarpieces"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-RELIGIOUS_RETABLOS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:49.000Z"
+    },
+    "CBT1100": {
+        "id": "CBT1100",
+        "name": "Birds",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT1101",
+                "name": "Birds",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1102",
+                "name": "Cages",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434841",
+                "name": "Falconry",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429112",
+                "name": "Fertile Eggs",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1103",
+                "name": "Food",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT34088",
+                "name": "Incubators",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434840",
+                "name": "Nests",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1104",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429115",
+                "name": "Rings",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT418087",
+                "name": "Toys",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT412638",
+                "name": "Water \u0026 Food Bowls",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT1102": {
+        "id": "CBT1102",
+        "name": "Cages",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT1102",
+                "name": "Cages"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-BIRD_CAGES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT429311": {
+        "id": "CBT429311",
+        "name": "Bugs",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT429311",
+                "name": "Bugs"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT429314",
+                "name": "Beetles",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429328",
+                "name": "Cockroaches",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429313",
+                "name": "Crickets",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429312",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMALS_AND_PETS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:21:00.000Z"
+    },
+    "CBT1101": {
+        "id": "CBT1101",
+        "name": "Birds",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT1101",
+                "name": "Birds"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT81626",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT81615",
+                "name": "Peacocks",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT81614",
+                "name": "Quails",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT81624",
+                "name": "Roosters \u0026 Chickens",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMALS_AND_PETS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT10272": {
+        "id": "CBT10272",
+        "name": "Antique Cash Registers",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            },
+            {
+                "id": "CBT10272",
+                "name": "Antique Cash Registers"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUE_CASH_REGISTERS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT1368": {
+        "id": "CBT1368",
+        "name": "Art, Craft and School Supplies",
+        "picture": "http://resources.mlstatic.com/category/images/b6f1c3e7-6c72-4f4a-a61b-4ea6c0241882.png",
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1368",
+                "name": "Art, Craft and School Supplies"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT34263",
+                "name": "Art",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT436793",
+                "name": "Candle Making Supplies",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT437077",
+                "name": "Key Rings with Chain",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT381266",
+                "name": "Mosaic Tile Mirrors",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT5982",
+                "name": "Office Products",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT34294",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT10934",
+                "name": "Sewing Notions",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT432923",
+                "name": "Soap Molds",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ARTS_AND_CRAFTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2018-04-25T08:12:56.000Z"
+    },
+    "CBT1806": {
+        "id": "CBT1806",
+        "name": "Coins \u0026 Bills",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT1806",
+                "name": "Coins \u0026 Bills"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT1949",
+                "name": "Bills",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT2061",
+                "name": "Coins",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT6103",
+                "name": "Medals",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT441114",
+                "name": "Numismatic Albums",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1948",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1950",
+                "name": "Tokens \u0026 Planchets",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT385177": {
+        "id": "CBT385177",
+        "name": "Air Conditioning",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT5726",
+                "name": "Appliances"
+            },
+            {
+                "id": "CBT385177",
+                "name": "Air Conditioning"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT1644",
+                "name": "Air Conditioners",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429538",
+                "name": "Air Curtains",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT392406",
+                "name": "Boilers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT412097",
+                "name": "Dehumidifiers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1645",
+                "name": "Fans",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429145",
+                "name": "Fireplaces",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT385176",
+                "name": "Hot Water Tank \u0026 Water Heater",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT385178",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT412077",
+                "name": "Portable Air Conditioners",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT2531",
+                "name": "Space Heaters",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT438235",
+                "name": "Spare Parts \u0026 Accessories",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-HOME_APPLIANCES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "custom",
+                "me1",
+                "not_specified"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "home_appliances",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "consumer_electronics",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T12:58:55.000Z"
+    },
+    "CBT1081": {
+        "id": "CBT1081",
+        "name": "Cats",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1081",
+                "name": "Cats"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT1088",
+                "name": "Accessories",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434788",
+                "name": "Beds \u0026 Houses",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1082",
+                "name": "Cats",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434781",
+                "name": "Doors \u0026 Ramps",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT81636",
+                "name": "Food \u0026 Water Bowls",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434779",
+                "name": "Food, Treats \u0026 Supplements",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1086",
+                "name": "Grooming \u0026 Care",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1090",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1084",
+                "name": "Toys",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434784",
+                "name": "Walking \u0026 Traveling",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:58.000Z"
+    },
+    "CBT434841": {
+        "id": "CBT434841",
+        "name": "Falconry",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT434841",
+                "name": "Falconry"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT434846",
+                "name": "Bells",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434847",
+                "name": "Falconry Kits",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434844",
+                "name": "Gloves",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434843",
+                "name": "Hoods",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434842",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434845",
+                "name": "Swivels",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT10249": {
+        "id": "CBT10249",
+        "name": "Antique Keys \u0026 Locks",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            },
+            {
+                "id": "CBT10249",
+                "name": "Antique Keys \u0026 Locks"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT47275",
+                "name": "Key \u0026 Lock Kits",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT47372",
+                "name": "Keys",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT47361",
+                "name": "Locks",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT47272",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT429112": {
+        "id": "CBT429112",
+        "name": "Fertile Eggs",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT429112",
+                "name": "Fertile Eggs"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-FERTILE_BIRD_EGGS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT436789": {
+        "id": "CBT436789",
+        "name": "Antiques",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT430305",
+                "name": "Altarpieces",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT10272",
+                "name": "Antique Cash Registers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT10249",
+                "name": "Antique Keys \u0026 Locks",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT416694",
+                "name": "Antique Knives \u0026 Penknives",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1373",
+                "name": "Antique Maritime Items",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1376",
+                "name": "Antique Musical Instruments",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429166",
+                "name": "Antique Projectors",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT10081",
+                "name": "Antique Scales",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT6652",
+                "name": "Audio Antiques",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT392531",
+                "name": "Bells",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT6098",
+                "name": "Cans \u0026 Bottles",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT11794",
+                "name": "Chairs",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT4689",
+                "name": "Chandeliers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT11785",
+                "name": "Coat Racks",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT4272",
+                "name": "Collectible Cards",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT433118",
+                "name": "Fight Belts",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT6661",
+                "name": "Home Appliances",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT31738",
+                "name": "Key Rings",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT413494",
+                "name": "Liquor Flasks",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429612",
+                "name": "Medal Hangers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT439433",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT430308",
+                "name": "Perfume Bottles",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT413011",
+                "name": "Pog Caps",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT47385",
+                "name": "Reliquaries",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT10236",
+                "name": "Seltzer Bottles",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT34242",
+                "name": "Sulkies \u0026 Antique Carts",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT413508",
+                "name": "Trophies",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT417836",
+                "name": "Typewriters \u0026 Typewriter Supp.",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT6662",
+                "name": "Vintage Phones",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT5977": {
+        "id": "CBT5977",
+        "name": "Other",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT5726",
+                "name": "Appliances"
+            },
+            {
+                "id": "CBT5977",
+                "name": "Other"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-HOME_APPLIANCES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "custom",
+                "me1",
+                "not_specified"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "home_appliances",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "consumer_electronics",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "disabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T12:58:58.000Z"
+    },
+    "CBT1618": {
+        "id": "CBT1618",
+        "name": "Cooking",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT5726",
+                "name": "Appliances"
+            },
+            {
+                "id": "CBT1618",
+                "name": "Cooking"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT187592",
+                "name": "Cooktop \u0026 Exhaust Hood Kits",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT4854",
+                "name": "Cooktops",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT5808",
+                "name": "Exhaust \u0026 Range Hoods",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1577",
+                "name": "Microwave Ovens",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1620",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT10063",
+                "name": "Ovens",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT4344",
+                "name": "Ranges",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT455059",
+                "name": "Spare Parts \u0026 Accessories",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-HOME_APPLIANCES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "custom",
+                "me1",
+                "not_specified"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "home_appliances",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "consumer_electronics",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T12:58:55.000Z"
+    },
+    "CBT416694": {
+        "id": "CBT416694",
+        "name": "Antique Knives \u0026 Penknives",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            },
+            {
+                "id": "CBT416694",
+                "name": "Antique Knives \u0026 Penknives"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUE_KNIVES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:49.000Z"
+    },
+    "CBT1103": {
+        "id": "CBT1103",
+        "name": "Food",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT1103",
+                "name": "Food"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-BIRD_FOODS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT1384": {
+        "id": "CBT1384",
+        "name": "Babies",
+        "picture": "http://resources.mlstatic.com/category/images/c2d12ece-dc6b-4408-b6f7-23f797f900e3.png",
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1384",
+                "name": "Babies"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT409456",
+                "name": "Baby Care \u0026 Hygiene",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1396",
+                "name": "Baby Clothing \u0026 Shoes",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT417851",
+                "name": "Baby Food",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT417887",
+                "name": "Baby Health",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT5362",
+                "name": "Baby Room",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1390",
+                "name": "Baby Safety",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1392",
+                "name": "Baby Toys \u0026 Games",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT8814",
+                "name": "Baby Walkers \u0026 Vehicles",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT5702",
+                "name": "Bathroom Baby Products",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT5360",
+                "name": "Breastfeeding \u0026 Feeding",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT8322",
+                "name": "Fences",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT417864",
+                "name": "Maternity Products",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1889",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT417853",
+                "name": "Pacifiers \u0026 Teethers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT418189",
+                "name": "Strollers, Car Seats \u0026 Walking",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-BABY_SUPPLIES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "custom",
+                "not_specified"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "babies",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "toys_babies",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2018-04-25T08:12:56.000Z"
+    },
+    "CBT1383": {
+        "id": "CBT1383",
+        "name": "Other",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT1383",
+                "name": "Other"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "disabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT1091": {
+        "id": "CBT1091",
+        "name": "Fish",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1091",
+                "name": "Fish"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT1096",
+                "name": "Fish",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1092",
+                "name": "Fish Tanks \u0026 Accessories",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1094",
+                "name": "Food",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1098",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:58.000Z"
+    },
+    "CBT1373": {
+        "id": "CBT1373",
+        "name": "Antique Maritime Items",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            },
+            {
+                "id": "CBT1373",
+                "name": "Antique Maritime Items"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT34088": {
+        "id": "CBT34088",
+        "name": "Incubators",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT34088",
+                "name": "Incubators"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-BIRD_EGGS_INCUBATORS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT6355": {
+        "id": "CBT6355",
+        "name": "Personal Care Appliances",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT5726",
+                "name": "Appliances"
+            },
+            {
+                "id": "CBT6355",
+                "name": "Personal Care Appliances"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT10080",
+                "name": "Bathroom Scales",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT125429",
+                "name": "Hair \u0026 Styling Appliances",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT4601",
+                "name": "Nebulizers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT6356",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT125427",
+                "name": "Spare Parts \u0026 Accessories",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-PERSONAL_CARE_APPLIANCES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "custom",
+                "me1",
+                "not_specified"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "home_appliances",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "consumer_electronics",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T12:58:58.000Z"
+    },
+    "CBT1805": {
+        "id": "CBT1805",
+        "name": "Military",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT1805",
+                "name": "Military"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT433425",
+                "name": "Knife Sheaths",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT2295",
+                "name": "Medals",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT2297",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434385",
+                "name": "Photos",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT44094",
+                "name": "Plates",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT31791",
+                "name": "Posters",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT407889",
+                "name": "Stun Guns",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT10274",
+                "name": "Swords",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT2296",
+                "name": "Uniforms",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-MILITARY_COLLECTIBLE_SUPPLIES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT1376": {
+        "id": "CBT1376",
+        "name": "Antique Musical Instruments",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            },
+            {
+                "id": "CBT1376",
+                "name": "Antique Musical Instruments"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:49.000Z"
+    },
+    "CBT1126": {
+        "id": "CBT1126",
+        "name": "Other",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1126",
+                "name": "Other"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "disabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:21:00.000Z"
+    },
+    "CBT434840": {
+        "id": "CBT434840",
+        "name": "Nests",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT434840",
+                "name": "Nests"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT1072": {
+        "id": "CBT1072",
+        "name": "Dogs",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1072",
+                "name": "Dogs"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT7107",
+                "name": "Apparel \u0026 Accessories",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT11060",
+                "name": "Beds \u0026 Houses",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT417323",
+                "name": "Cross-Breed Dogs",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT369570",
+                "name": "Dogs For Adoption",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434762",
+                "name": "Doors, Ramps \u0026 Fences",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434760",
+                "name": "Food, Treats \u0026 Supplements",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1076",
+                "name": "Grooming \u0026 Care",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1078",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1073",
+                "name": "Purebred Dogs",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1074",
+                "name": "Toys",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT32261",
+                "name": "Training",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434764",
+                "name": "Walking \u0026 Traveling",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434771",
+                "name": "Water \u0026 Food Bowls",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429133",
+                "name": "Wheelchairs",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:57.000Z"
+    },
+    "CBT429166": {
+        "id": "CBT429166",
+        "name": "Antique Projectors",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            },
+            {
+                "id": "CBT429166",
+                "name": "Antique Projectors"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:49.000Z"
+    },
+    "CBT3475": {
+        "id": "CBT3475",
+        "name": "Posters",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT3475",
+                "name": "Posters"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-POSTERS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT1117": {
+        "id": "CBT1117",
+        "name": "Horses",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1117",
+                "name": "Horses"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT32258",
+                "name": "Equestrian Gear \u0026 Accessories",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT435033",
+                "name": "Grooming \u0026 Care",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT412639",
+                "name": "Hay Bales",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429105",
+                "name": "Horse Supplements",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1125",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT32247",
+                "name": "Stallions \u0026 Mares",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT429300",
+                "name": "Wagons",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:21:00.000Z"
+    },
+    "CBT1104": {
+        "id": "CBT1104",
+        "name": "Other",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT1104",
+                "name": "Other"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "disabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT6573": {
+        "id": "CBT6573",
+        "name": "Rabbits",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT6573",
+                "name": "Rabbits"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT6559",
+                "name": "Cages",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT81657",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT81618",
+                "name": "Rabbits",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:21:00.000Z"
+    },
+    "CBT2662": {
+        "id": "CBT2662",
+        "name": "Sculptures",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT2662",
+                "name": "Sculptures"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "variations",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-SCULPTURES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT438284": {
+        "id": "CBT438284",
+        "name": "Small Appliances",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT5726",
+                "name": "Appliances"
+            },
+            {
+                "id": "CBT438284",
+                "name": "Small Appliances"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT438286",
+                "name": "Home Appliances",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT438287",
+                "name": "Kitchen Appliances",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT438285",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-HOME_APPLIANCES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "custom",
+                "me1",
+                "not_specified"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "home_appliances",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "consumer_electronics",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T12:58:57.000Z"
+    },
+    "CBT1861": {
+        "id": "CBT1861",
+        "name": "Philately",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT1861",
+                "name": "Philately"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT2434",
+                "name": "Envelopes",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1869",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1830",
+                "name": "Phone Cards",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1862",
+                "name": "Postage Stamps",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT31722",
+                "name": "Postcards",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1864",
+                "name": "Stamps",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT429115": {
+        "id": "CBT429115",
+        "name": "Rings",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT429115",
+                "name": "Rings"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "variations",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-BIRD_BANDS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT1576": {
+        "id": "CBT1576",
+        "name": "Refrigerators \u0026 Freezers",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT5726",
+                "name": "Appliances"
+            },
+            {
+                "id": "CBT1576",
+                "name": "Refrigerators \u0026 Freezers"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT438227",
+                "name": "Beer Coolers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT10705",
+                "name": "Beverage Refrigerators",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT18406",
+                "name": "Display Refrigerators",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT9458",
+                "name": "Freezers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT9461",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT398582",
+                "name": "Refrigerators",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT438215",
+                "name": "Spare Parts \u0026 Accessories",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT125876",
+                "name": "Wine Cellars",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-HOME_APPLIANCES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "custom",
+                "me1",
+                "not_specified"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "home_appliances",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "consumer_electronics",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T12:58:55.000Z"
+    },
+    "CBT10081": {
+        "id": "CBT10081",
+        "name": "Antique Scales",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            },
+            {
+                "id": "CBT10081",
+                "name": "Antique Scales"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT47392",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT47331",
+                "name": "Scales",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT47330",
+                "name": "Weights",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT1111": {
+        "id": "CBT1111",
+        "name": "Reptiles \u0026 Amphibians",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1111",
+                "name": "Reptiles \u0026 Amphibians"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT406033",
+                "name": "Food",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT406031",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT434852",
+                "name": "Terrariums, Tanks \u0026 Boxes",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMAL_AND_PET_PRODUCTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT418087": {
+        "id": "CBT418087",
+        "name": "Toys",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT418087",
+                "name": "Toys"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-BIRD_TOYS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT31770": {
+        "id": "CBT31770",
+        "name": "Soccer",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT31770",
+                "name": "Soccer"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-SPORT_COLLECTIBLES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:49.000Z"
+    },
+    "CBT81626": {
+        "id": "CBT81626",
+        "name": "Other",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT1101",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT81626",
+                "name": "Other"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMALS_AND_PETS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "disabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT429314": {
+        "id": "CBT429314",
+        "name": "Beetles",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT429311",
+                "name": "Bugs"
+            },
+            {
+                "id": "CBT429314",
+                "name": "Beetles"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-BEETLES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:21:00.000Z"
+    },
+    "CBT412638": {
+        "id": "CBT412638",
+        "name": "Water \u0026 Food Bowls",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT412638",
+                "name": "Water \u0026 Food Bowls"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-BIRD_DRINKERS_AND_FEEDERS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT438282": {
+        "id": "CBT438282",
+        "name": "Washing Machines \u0026 Dryers",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT5726",
+                "name": "Appliances"
+            },
+            {
+                "id": "CBT438282",
+                "name": "Washing Machines \u0026 Dryers"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT1579",
+                "name": "Dishwashers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT10112",
+                "name": "Dryers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT455298",
+                "name": "Laundry Centers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT438283",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT455106",
+                "name": "Spare Parts \u0026 Accessories",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT431202",
+                "name": "Washing Machine \u0026 Washer-Dryer",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-HOME_APPLIANCES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "custom",
+                "me1",
+                "not_specified"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "home_appliances",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "consumer_electronics",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T12:58:57.000Z"
+    },
+    "CBT392531": {
+        "id": "CBT392531",
+        "name": "Bells",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            },
+            {
+                "id": "CBT392531",
+                "name": "Bells"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUE_BELLS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:49.000Z"
+    },
+    "CBT429328": {
+        "id": "CBT429328",
+        "name": "Cockroaches",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT429311",
+                "name": "Bugs"
+            },
+            {
+                "id": "CBT429328",
+                "name": "Cockroaches"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-COCKROACHES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:21:00.000Z"
+    },
+    "CBT81615": {
+        "id": "CBT81615",
+        "name": "Peacocks",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT1101",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT81615",
+                "name": "Peacocks"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-PEACOCKS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT1644": {
+        "id": "CBT1644",
+        "name": "Air Conditioners",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT5726",
+                "name": "Appliances"
+            },
+            {
+                "id": "CBT385177",
+                "name": "Air Conditioning"
+            },
+            {
+                "id": "CBT1644",
+                "name": "Air Conditioners"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-AIR_CONDITIONERS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "custom",
+                "me1",
+                "not_specified"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "home_appliances",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "consumer_electronics",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T12:58:55.000Z"
+    },
+    "CBT34263": {
+        "id": "CBT34263",
+        "name": "Art",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1368",
+                "name": "Art, Craft and School Supplies"
+            },
+            {
+                "id": "CBT34263",
+                "name": "Art"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT434742",
+                "name": "Bottle \u0026 Jar Vinyls",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT1371",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT432710",
+                "name": "Paintings",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT436797",
+                "name": "Wood \u0026 Pottery Crafts",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ARTS_AND_CRAFTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T14:54:54.000Z"
+    },
+    "CBT117258": {
+        "id": "CBT117258",
+        "name": "Water Dispensers \u0026 Filters",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT5726",
+                "name": "Appliances"
+            },
+            {
+                "id": "CBT117258",
+                "name": "Water Dispensers \u0026 Filters"
+            }
+        ],
+        "children_categories": [
+            {
+                "id": "CBT117260",
+                "name": "Other",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT125541",
+                "name": "Reverse Osmosis Filters",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT125721",
+                "name": "Spare Parts \u0026 Accessories",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT74327",
+                "name": "Water Dispensers",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT117259",
+                "name": "Water Filters",
+                "total_items_in_this_category": 0
+            },
+            {
+                "id": "CBT125539",
+                "name": "Water Softeners",
+                "total_items_in_this_category": 0
+            }
+        ],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-HOME_APPLIANCES",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": false,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "custom",
+                "me1",
+                "not_specified"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "home_appliances",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "consumer_electronics",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T12:58:55.000Z"
+    },
+    "CBT6098": {
+        "id": "CBT6098",
+        "name": "Cans \u0026 Bottles",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            },
+            {
+                "id": "CBT6098",
+                "name": "Cans \u0026 Bottles"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-COLLECTIBLE_CANS_BOTTLES_AND_SODA_SIPHONS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:49.000Z"
+    },
+    "CBT429313": {
+        "id": "CBT429313",
+        "name": "Crickets",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT429311",
+                "name": "Bugs"
+            },
+            {
+                "id": "CBT429313",
+                "name": "Crickets"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-CRICKETS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:21:00.000Z"
+    },
+    "CBT437077": {
+        "id": "CBT437077",
+        "name": "Key Rings with Chain",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1368",
+                "name": "Art, Craft and School Supplies"
+            },
+            {
+                "id": "CBT437077",
+                "name": "Key Rings with Chain"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ARTS_AND_CRAFTS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T14:54:54.000Z"
+    },
+    "CBT11794": {
+        "id": "CBT11794",
+        "name": "Chairs",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1367",
+                "name": "Antiques and Collectibles"
+            },
+            {
+                "id": "CBT436789",
+                "name": "Antiques"
+            },
+            {
+                "id": "CBT11794",
+                "name": "Chairs"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "variations",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-ANTIQUE_CHAIRS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "custom",
+                "carrier"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T15:35:48.000Z"
+    },
+    "CBT429538": {
+        "id": "CBT429538",
+        "name": "Air Curtains",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT5726",
+                "name": "Appliances"
+            },
+            {
+                "id": "CBT385177",
+                "name": "Air Conditioning"
+            },
+            {
+                "id": "CBT429538",
+                "name": "Air Curtains"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "variations",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "buy_it_now",
+                "auction"
+            ],
+            "catalog_domain": "CBT-AIR_CURTAINS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "custom",
+                "me1",
+                "not_specified"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "home_appliances",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "consumer_electronics",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T12:58:56.000Z"
+    },
+    "CBT81614": {
+        "id": "CBT81614",
+        "name": "Quails",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT1100",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT1101",
+                "name": "Birds"
+            },
+            {
+                "id": "CBT81614",
+                "name": "Quails"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-QUAILS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:20:59.000Z"
+    },
+    "CBT429312": {
+        "id": "CBT429312",
+        "name": "Other",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1071",
+                "name": "Animals and Pets"
+            },
+            {
+                "id": "CBT429311",
+                "name": "Bugs"
+            },
+            {
+                "id": "CBT429312",
+                "name": "Other"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "attributes",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-ANIMALS_AND_PETS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "disabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-09T11:21:00.000Z"
+    },
+    "CBT381266": {
+        "id": "CBT381266",
+        "name": "Mosaic Tile Mirrors",
+        "picture": null,
+        "permalink": null,
+        "total_items_in_this_category": 0,
+        "path_from_root": [
+            {
+                "id": "CBT1368",
+                "name": "Art, Craft and School Supplies"
+            },
+            {
+                "id": "CBT381266",
+                "name": "Mosaic Tile Mirrors"
+            }
+        ],
+        "children_categories": [],
+        "attribute_types": "variations",
+        "settings": {
+            "adult_content": false,
+            "buying_allowed": true,
+            "buying_modes": [
+                "auction",
+                "buy_it_now"
+            ],
+            "catalog_domain": "CBT-MIRRORS",
+            "coverage_areas": "not_allowed",
+            "currencies": [
+                "USD"
+            ],
+            "fragile": false,
+            "immediate_payment": "required",
+            "item_conditions": [
+                "new"
+            ],
+            "items_reviews_allowed": false,
+            "listing_allowed": true,
+            "max_description_length": 50000,
+            "max_pictures_per_item": 12,
+            "max_pictures_per_item_var": 10,
+            "max_sub_title_length": 70,
+            "max_title_length": 60,
+            "maximum_price": null,
+            "minimum_price": 1,
+            "mirror_category": null,
+            "mirror_master_category": null,
+            "mirror_slave_categories": [],
+            "price": "required",
+            "reservation_allowed": "not_allowed",
+            "restrictions": [],
+            "rounded_address": false,
+            "seller_contact": "not_allowed",
+            "shipping_modes": [
+                "not_specified",
+                "custom"
+            ],
+            "shipping_options": [
+                "carrier",
+                "custom"
+            ],
+            "shipping_profile": "optional",
+            "show_contact_information": false,
+            "simple_shipping": "optional",
+            "stock": "required",
+            "sub_vertical": "other",
+            "subscribable": false,
+            "tags": [],
+            "vertical": "other",
+            "vip_subdomain": "articulo",
+            "buyer_protection_programs": null,
+            "status": "enabled"
+        },
+        "meta_categ_id": null,
+        "attributable": false,
+        "date_created": "2019-09-16T14:54:54.000Z"
+    }
+}
+    
